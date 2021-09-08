@@ -1,0 +1,38 @@
+h1{
+    color: #ffe600;
+    font-size: 60;
+     
+}
+
+html{
+
+    font-family: cursive;
+    background-size: 100%;
+    background-image:url("https://cdn.antenne.de/thumbs/images/articles/experten-tipps/wetter/wetter_3.3f078b49.jpg")
+    
+}
+
+
+
+
+
+
+
+body{
+
+    
+    font-size: 40;
+}
+
+
+
+
+/* TESTING */
+
+
+/*p {outline-color: red;}
+p.dashed {outline-style: dashed;}
+
+
+
+*/
